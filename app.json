@@ -21,7 +21,7 @@
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
-"value":"6027834135:AAHqW7KmTaOiKW7zq67LRkohYmHHNTBehRw",
+"value":"6461931275:AAFvG5VI5leCMiEsQtcPSu__R8EKhd0Q_18",
             "required": true
         },
         "API_ID": {
@@ -51,7 +51,7 @@
         },
         "LOG_CHANNEL": {
             "description": "Bot Logs,Give a channel id with -100xxxxxxx",
-"value":"-1001912840788",
+"value":"-1001805009030",
             "required": true
         },
         "AUTH_USERS": {
@@ -69,6 +69,7 @@
         },
         "DATABASE_NAME": {
             "description": "Name of the database in mongoDB. For more help watch this video - https://youtu.be/dsuTn4qV2GA",
+"value":"xxxxxxxxxx",
             "required": false
         },
         "COLLECTION_NAME": {
